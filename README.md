@@ -1,5 +1,5 @@
-# bpa.github.io
-  Project for Busienss Process Analysis
+# Project for Busienss Process Analysis
+  
  <br />
 Our Client is the Gettysburg National Military Park Bookstore which is run by the Event Network Inc. of San Diego
 The Goal is to improve tour guide books selecting process
